@@ -10,4 +10,5 @@ It stores all my early days python projects.
 
 ---
 
-1. Calculator
+- Python_Game
+- Calculator
