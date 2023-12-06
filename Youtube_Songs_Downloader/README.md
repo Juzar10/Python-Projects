@@ -18,7 +18,7 @@ Then it closes the window and re open it to the new website to download youtube 
 
 ### Some Draw-backs
 
-You have to have study internet connection because if you lose it and programm terminates I have not added any functionality that will let you know where you have left off.
+You have to have steady internet connection because if you lose it and programm terminates I have not added any functionality that will let you know where you have left off.
 
 You can create text file insted of python list and iterate over it for backup purposes in case of lost internet connection.
 
